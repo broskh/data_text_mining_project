@@ -1,0 +1,12 @@
+
+{
+    "type": "object",
+    "properties": {
+        "double-input-51": {
+            "type": "number",
+            "default": 1645.0,
+            "description": "Enter Description",
+            "example": 1645.0
+        }
+    }
+}
