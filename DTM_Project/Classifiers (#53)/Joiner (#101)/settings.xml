@@ -10,14 +10,17 @@
 <entry key="compositionMode" type="xstring" value="MatchAll"/>
 <entry key="joinMode" type="xstring" value="InnerJoin"/>
 <config key="leftTableJoinPredicate">
-<entry key="array-size" type="xint" value="0"/>
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="$RowID$"/>
 </config>
 <config key="rightTableJoinPredicate">
-<entry key="array-size" type="xint" value="0"/>
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="$RowID$"/>
 </config>
 <entry key="suffix" type="xstring" value="(*)"/>
 <config key="leftIncludeCols">
-<entry key="array-size" type="xint" value="0"/>
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="NBT_recall"/>
 </config>
 <config key="rightIncludeCols">
 <entry key="array-size" type="xint" value="0"/>

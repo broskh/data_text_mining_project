@@ -9,7 +9,7 @@
 <config key="all_columns">
 <config key="0">
 <entry key="old_column_name" type="xstring" value="Recall"/>
-<entry key="new_column_name" type="xstring" value="NBT_recall"/>
+<entry key="new_column_name" type="xstring" value="ML_recall"/>
 <entry key="new_column_type" type="xint" value="0"/>
 </config>
 </config>
