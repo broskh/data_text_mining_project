@@ -17,9 +17,9 @@
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value=""/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="1076"/>
+<entry key="x-coordinate" type="xint" value="1074"/>
 <entry key="y-coordinate" type="xint" value="560"/>
-<entry key="width" type="xint" value="126"/>
+<entry key="width" type="xint" value="131"/>
 <entry key="height" type="xint" value="16"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
@@ -55,6 +55,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="83db0acf-7934-463b-afc0-6c78061fd797"/>
+<entry key="file_store_id" type="xstring" value="8f8c78e4-c613-4af4-8889-bf1f24178d38"/>
 </config>
 </config>

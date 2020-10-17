@@ -39,29 +39,29 @@
 <entry key="inView" type="xboolean" value="true"/>
 <config key="tableIds">
 <entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="a764617e-81c0-4a06-b326-33c6b3ed0f79"/>
+<entry key="0" type="xstring" value="fc15cfd0-d9c8-49e6-b412-9d4051e97d20"/>
 </config>
 <config key="variables">
 <entry key="numSettings" type="xint" value="6"/>
 <entry key="mapClass" type="xstring" value="string"/>
 <entry key="key_0" type="xstring" value="#False"/>
 <entry key="class_0" type="xstring" value="java.lang.String"/>
-<entry key="value_0" type="xstring" value="2667"/>
+<entry key="value_0" type="xstring" value="2374"/>
 <entry key="key_1" type="xstring" value="Accuracy"/>
 <entry key="class_1" type="xstring" value="java.lang.String"/>
-<entry key="value_1" type="xstring" value="0.8214620431115276"/>
+<entry key="value_1" type="xstring" value="0.841076449323872"/>
 <entry key="key_2" type="xstring" value="knime.workspace"/>
 <entry key="class_2" type="xstring" value="java.lang.String"/>
 <entry key="value_2" type="xstring" value="/home/broskh/knime-workspace"/>
 <entry key="key_3" type="xstring" value="#Correct"/>
 <entry key="class_3" type="xstring" value="java.lang.String"/>
-<entry key="value_3" type="xstring" value="12271"/>
+<entry key="value_3" type="xstring" value="12564"/>
 <entry key="key_4" type="xstring" value="Error"/>
 <entry key="class_4" type="xstring" value="java.lang.String"/>
-<entry key="value_4" type="xstring" value="0.17853795688847235"/>
+<entry key="value_4" type="xstring" value="0.15892355067612798"/>
 <entry key="key_5" type="xstring" value="Cohen's kappa"/>
 <entry key="class_5" type="xstring" value="java.lang.String"/>
-<entry key="value_5" type="xstring" value="0.6429240862230552"/>
+<entry key="value_5" type="xstring" value="0.6821528986477441"/>
 </config>
 <config key="binaryFiles">
 <entry key="numSettings" type="xint" value="0"/>
@@ -122,7 +122,7 @@
 <entry key="numSettings" type="xint" value="1"/>
 <config key="inObject_0">
 <entry key="className" type="xstring" value="org.knime.dynamic.js.base.boxplot.BoxplotProcessor_v2$BoxPlotResult"/>
-<entry key="jsonValue" type="xstring" value="{&quot;m_stats&quot;:{&quot;NBT_err&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.1785379568884724,&quot;upperWhisker&quot;:0.1785379568884724,&quot;upperQuartile&quot;:0.1785379568884724,&quot;lowerWhisker&quot;:0.1785379568884724,&quot;lowerQuartile&quot;:0.1785379568884724,&quot;min&quot;:0.1785379568884724,&quot;max&quot;:0.1785379568884724},&quot;NBT_err (#1)&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.17472218503146342,&quot;upperWhisker&quot;:0.17472218503146342,&quot;upperQuartile&quot;:0.17472218503146342,&quot;lowerWhisker&quot;:0.17472218503146342,&quot;lowerQuartile&quot;:0.17472218503146342,&quot;min&quot;:0.17472218503146342,&quot;max&quot;:0.17472218503146342}},&quot;m_excludedDataCols&quot;:[],&quot;m_numMissValPerCol&quot;:{},&quot;excludedDataCols&quot;:[],&quot;numMissValPerCol&quot;:{},&quot;stats&quot;:{&quot;NBT_err&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.1785379568884724,&quot;upperWhisker&quot;:0.1785379568884724,&quot;upperQuartile&quot;:0.1785379568884724,&quot;lowerWhisker&quot;:0.1785379568884724,&quot;lowerQuartile&quot;:0.1785379568884724,&quot;min&quot;:0.1785379568884724,&quot;max&quot;:0.1785379568884724},&quot;NBT_err (#1)&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.17472218503146342,&quot;upperWhisker&quot;:0.17472218503146342,&quot;upperQuartile&quot;:0.17472218503146342,&quot;lowerWhisker&quot;:0.17472218503146342,&quot;lowerQuartile&quot;:0.17472218503146342,&quot;min&quot;:0.17472218503146342,&quot;max&quot;:0.17472218503146342}}}"/>
+<entry key="jsonValue" type="xstring" value="{&quot;m_stats&quot;:{&quot;NBT_err&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.15892355067612796,&quot;max&quot;:0.15892355067612796,&quot;min&quot;:0.15892355067612796,&quot;lowerWhisker&quot;:0.15892355067612796,&quot;lowerQuartile&quot;:0.15892355067612796,&quot;upperQuartile&quot;:0.15892355067612796,&quot;upperWhisker&quot;:0.15892355067612796},&quot;NBT_err (#1)&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.17472218503146342,&quot;max&quot;:0.17472218503146342,&quot;min&quot;:0.17472218503146342,&quot;lowerWhisker&quot;:0.17472218503146342,&quot;lowerQuartile&quot;:0.17472218503146342,&quot;upperQuartile&quot;:0.17472218503146342,&quot;upperWhisker&quot;:0.17472218503146342}},&quot;m_excludedDataCols&quot;:[],&quot;m_numMissValPerCol&quot;:{},&quot;excludedDataCols&quot;:[],&quot;numMissValPerCol&quot;:{},&quot;stats&quot;:{&quot;NBT_err&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.15892355067612796,&quot;max&quot;:0.15892355067612796,&quot;min&quot;:0.15892355067612796,&quot;lowerWhisker&quot;:0.15892355067612796,&quot;lowerQuartile&quot;:0.15892355067612796,&quot;upperQuartile&quot;:0.15892355067612796,&quot;upperWhisker&quot;:0.15892355067612796},&quot;NBT_err (#1)&quot;:{&quot;mildOutliers&quot;:[],&quot;extremeOutliers&quot;:[],&quot;median&quot;:0.17472218503146342,&quot;max&quot;:0.17472218503146342,&quot;min&quot;:0.17472218503146342,&quot;lowerWhisker&quot;:0.17472218503146342,&quot;lowerQuartile&quot;:0.17472218503146342,&quot;upperQuartile&quot;:0.17472218503146342,&quot;upperWhisker&quot;:0.17472218503146342}}}"/>
 </config>
 </config>
 <entry key="warnMessage" type="xstring" value=""/>
