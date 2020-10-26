@@ -4,9 +4,9 @@
     "properties": {
         "double-input-51": {
             "type": "number",
-            "default": 1645.0,
+            "default": 1.96,
             "description": "Enter Description",
-            "example": 1645.0
+            "example": 1.96
         }
     }
 }

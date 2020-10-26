@@ -42,8 +42,8 @@
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value=""/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="1735"/>
-<entry key="y-coordinate" type="xint" value="200"/>
+<entry key="x-coordinate" type="xint" value="1736"/>
+<entry key="y-coordinate" type="xint" value="140"/>
 <entry key="width" type="xint" value="131"/>
 <entry key="height" type="xint" value="16"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
@@ -80,6 +80,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="0263576f-8342-4055-97ad-f1ac85ac9a36"/>
+<entry key="file_store_id" type="xstring" value="b8adee81-389e-493e-85c7-d2525799cee9"/>
 </config>
 </config>

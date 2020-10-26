@@ -6,13 +6,13 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="quantile"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="1645.0"/>
+<entry key="value" type="xdouble" value="1.96"/>
 </config>
 <config key="Variable_1">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="quantile"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="1645.0"/>
+<entry key="value" type="xdouble" value="1.96"/>
 </config>
 </config>
 <config key="internal_node_subsettings">
@@ -20,7 +20,7 @@
 </config>
 <config key="model">
 <config key="defaultValue">
-<entry key="double" type="xdouble" value="1645.0"/>
+<entry key="double" type="xdouble" value="1.96"/>
 </config>
 <entry key="label" type="xstring" value="quantile"/>
 <entry key="description" type="xstring" value="Enter Description"/>
@@ -64,6 +64,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="ab537e25-15e7-41b7-821d-bde7f365de91"/>
+<entry key="file_store_id" type="xstring" value="de00d6a2-0ff4-49ac-8c66-b1f8132d5d1e"/>
 </config>
 </config>
